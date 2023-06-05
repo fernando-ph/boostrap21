@@ -29,7 +29,7 @@ function submitProject() {
     let startDate = document.getElementById("startdate").value;
     let endDate = document.getElementById("enddate").value;
     let description = document.getElementById("inputdesc").value;
-    let bootstrapIcon = document.getElementById("bootstrap").checked ? '<i class="fab fa-bootstrap fa-xl"></i>' : "";
+    let bootstrapIcon = document.getElementById("pyhton").checked ? '<i class="fa-brands fa-python"></i>' : "";
     let cssIcon = document.getElementById("css").checked ? '<i class="fab fa-css3-alt fa-xl"></i>' : "";
     let jsIcon = document.getElementById("js").checked ? '<i class="fab fa-js fa-xl"></i>' : "";
     let goIcon = document.getElementById("Go").checked ? '<i class="fab fa-golang fa-xl"></i>' : "";
