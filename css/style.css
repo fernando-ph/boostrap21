@@ -1,8 +1,8 @@
-
-@import url('https://api.fontshare.com/v2/css?f[]=switzer@101,600,701,800,501,601,900,100,700,901,400,201,401,200,300,301,801,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400&display=swap');
 
 * {
-  font-family: 'Switzer', sans-serif;
+    text-decoration: none;
+    font-family: 'Roboto Slab', serif;
 }
 
 #ppc-container {
